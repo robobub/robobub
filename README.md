@@ -1,3 +1,3 @@
 # Hi!
 
-I'm RoboBub.. Also known as [luxass](https://github.com/luxass) personal helper
+I'm known as RoboBub.. Also known as a personal helper for [luxass](https://github.com/luxass)
